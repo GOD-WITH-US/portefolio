@@ -1,0 +1,47 @@
+@use 'reset';
+@use 'vars';
+
+@mixin verticalCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 1rem auto;
+  max-width: 1200px;
+  font-family: vars.$font-1;
+  color: vars.$black;
+}
+button {
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: vars.$black;
+  cursor: pointer;
+}
+a:visited {
+  color:vars.$black;
+}
+.home, .knowledges, .portfolio, .contact {
+  display: flex;
+
+  @media screen and (max-width: 850px){
+    display: block !important;
+  }
+}
+.homeContent, .knowledgesContent, .portfolioContent, .contactContent {
+  margin-left: .4rem;
+
+  @media screen and (max-width: 850px){
+    margin-left: 0 !important;
+  }
+}
