@@ -15,5 +15,5 @@ const rootComponent =
   </BrowserRouter>;
 // 2. La cible du DOM (là où la structure doit prendre vie dans le DOM)
 const target = document.getElementById('root');
-// 3. Déclenchement du rendu de React (virtuel) => DOM (page web)fr
+// 3. Déclenchement du rendu de React (virtuel) => DOM (page web)
 render(rootComponent, target);
