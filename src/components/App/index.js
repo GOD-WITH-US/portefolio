@@ -2,11 +2,11 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 //Composants
-import Home from '../../pages /Home';
-import Contact from '../../pages /Contact';
-import Knowledges from '../../pages /Knowledges';
-import Portfolio from '../../pages /Portfolio';
-import NotFound from '../../pages /NotFound';
+import Home from '../../pages/Home';
+import Contact from '../../pages/Contact';
+import Knowledges from '../../pages/Knowledges';
+import Portfolio from '../../pages/Portfolio';
+import NotFound from '../../pages/NotFound';
 
 // data, styles et utilitaires
 import '../styles.scss';

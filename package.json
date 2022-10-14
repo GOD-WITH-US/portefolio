@@ -51,6 +51,7 @@
   "dependencies": {
     "prop-types": "*",
     "react": "17",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "17",
     "react-router-dom": "^6.3.0"
   }
