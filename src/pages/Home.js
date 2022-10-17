@@ -9,7 +9,7 @@ const Home = () => {
        <div className="content">
         
          <div className="pdf">
-         <a href="http://myreader.toile-libre.org/uploads/My_634921c3874be.pdf" target="_blank" >Télécharger mon CV</a>
+         <a href="https://drive.google.com/file/d/1En1AevrTx6EGLRTTbAK7HYgqylUSNZVj/view?usp=sharing" target="_blank" >Télécharger mon CV</a>
          </div>
        </div>
      </div>
