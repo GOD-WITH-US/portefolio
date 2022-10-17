@@ -76,7 +76,7 @@ const Contact = () => {
                 name="message"
                 className="form-control"
                 id="email_body"
-                rows="8"
+                rows="7"
               ></textarea>
             </div>
 

@@ -10,7 +10,7 @@ class Languages extends Component {
       { id: 4, value: "Javascript", xp: 0.8 }
     ],
     frameworks: [
-      { id: 1, value: "React", xp: 0.2 },
+      { id: 1, value: "React", xp: 0.6 },
       { id: 2, value: "Bootstrap", xp: 0.2 },
       { id: 3, value: "Sass", xp: 0.4 },
       { id: 4, value: "Semantic Ui", xp: 0.1 }

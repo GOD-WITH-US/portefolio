@@ -17,7 +17,7 @@
       width: inherit;
       background: url('../../public/images/background.png') no-repeat center/cover;
       z-index: -1;
-      filter: brightness(45%);
+      filter: brightness(54%);
     }
 
     .content {
@@ -60,7 +60,7 @@
 @media screen and (max-width:580px){
   .homeContent {
     &:after {
-    background: url('../../public/images/mobile.png') no-repeat 60% 50%/cover !important;
+    background: url('../../public/images/background\ mobile\ first.png') no-repeat 60% 50%/cover !important;
     }
     h1 {
       font-size: 3rem !important;
@@ -68,5 +68,6 @@
     h2 {
       font-size: 1.8rem !important;
     }
+
   }
 }

@@ -16,7 +16,7 @@ const Experience = () => {
 
       <div className="exp-2">
         <h4>Magasinier Cariste & Gestion de Stock</h4>
-        <h5>2013 / 20211</h5>
+        <h5>2013 / 2021</h5>
         <p>J'ai exercé ce métier qui m'a fait découvrir le monde automobile en travaillant pour BMW dans l'expédition et la gestion de piéces détachées.
           J'ai ensuite choisi de me rapprocher de mon lieu de vie et j'ai donc rejoins Gedimat une entreprise de matériaux de construction.
         </p>
