@@ -84,7 +84,7 @@ const Navigation = () => {
 
         </ul>
         <div className="signature">
-          <h4> Il est plus facile de renoncer à une passion que de la maîtriser. <br /> – Friedrich Nietzsche </h4>
+          <h4 className='citation'> Il est plus facile de renoncer à une passion que de la maîtriser.</h4>
         </div>
 
       </div>
