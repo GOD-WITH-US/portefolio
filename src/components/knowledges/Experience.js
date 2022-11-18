@@ -31,11 +31,11 @@ const Experience = () => {
         <h4>Développeur Web et Mobile</h4>
         <h5>2021/2022</h5>
         <p>
-          Titre Pro Développeur Web et Mobile niveau V (BAC +2) <br/><br/>
-          Obtenu aprés une formation de 798 heures sur 6 mois<br /><br/>
-          HTML5/CSS3/JavaScript/PHP/PostgreSQL/NodeJS <br /><br/>
-          Spécialisation : React 1 mois <br /><br/>
-          Projet: Essencial reseau d'entraide et de partage autour de l'autonomie et de l'écologie
+          Titre Pro Développeur Web et Mobile niveau V (BAC +2) 
+          Obtenu aprés une formation de 798 heures sur 6 mois<br/><br/>
+          Html5/Css3/JavaScript/Php/PostgreSQL/NodeJS <br/><br/>
+          Spécialisation : React <br/><br/>
+          Projet: Essencial le reseau d'entraide et de partage autour de l'autonomie et de l'écologie
         </p>
       </div>
     </div>

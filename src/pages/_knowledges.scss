@@ -114,7 +114,8 @@
       grid-template-areas: 
         "1"
         "2"
-        "3";
+        "3"
+        "4";
       
       h3 {
         grid-area: 1;
@@ -129,14 +130,23 @@
       }
       p {
         text-align: justify;
-        padding: 0 1rem;
+        font-size: .8rem;
+        color:vars.$black;
+        font-weight: vars.$font-1;
       }
       .exp-1 {
         grid-area: 2;
+       
       }
       .exp-2 {
         grid-area: 3;
+      
       }
+      .exp-3 {
+        grid-area: 4;
+       
+      }
+     
     }
     .otherSkills {
       grid-area: O;
