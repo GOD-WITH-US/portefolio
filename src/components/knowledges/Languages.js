@@ -6,11 +6,11 @@ class Languages extends Component {
     languages: [
       { id: 1, value: "Html", xp: 1 },
       { id: 2, value: "Css", xp: 1 },
-      { id: 3, value: "Php", xp: 0.1 },
+      { id: 3, value: "Php", xp: 0.3 },
       { id: 4, value: "Javascript", xp: 0.8 }
     ],
     frameworks: [
-      { id: 1, value: "React", xp: 0.6 },
+      { id: 1, value: "React", xp: 0.7 },
       { id: 2, value: "Bootstrap", xp: 0.2 },
       { id: 3, value: "Sass", xp: 0.4 },
       { id: 4, value: "Semantic Ui", xp: 0.1 }
