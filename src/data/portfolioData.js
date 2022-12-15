@@ -1,12 +1,12 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'https://github.com/GOD-WITH-US',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project1.JPG'
+    name: 'essencial',
+    languages: ['javascript','react', 'css'],
+    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
+    source: 'https://github.com/GOD-WITH-US/essencial-v2',
+    info: 'Application sociale de partage et d’entraide autour de l’autonomie et de l’écologie.',
+    picture: "images/project-one.JPG" 
   },
   { 
     id: 2,
@@ -15,7 +15,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react'],
     source: 'https://github.com/GOD-WITH-US',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project2.JPG'
+    picture: 'images/project2.JPG'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
     source: 'https://github.com/GOD-WITH-US',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project3.JPG'
+    picture: 'images/project3.JPG'
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
     source: 'https://github.com/GOD-WITH-US',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project4.JPG'
+    picture: 'images/project4.JPG'
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
     source: 'https://github.com/GOD-WITH-US',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project5.JPG'
+    picture: 'images/project5.JPG'
   },
   {
     id: 6,
@@ -51,6 +51,6 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/GOD-WITH-US',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: '/project6.JPG'
+    picture: 'images/project6.JPG'
   },
 ]
